@@ -11,7 +11,7 @@ Team Members:
 
 4. Keerthi Reddy Kandi
 
-5. Koushik Koritala
+5. Venkata Sai Koushik Koritala
 
 # Project Title: Mining and Modeling NYC Airbnb Data.
 
